@@ -1,2 +1,2 @@
-# web_design_challenge
- homework
+# Homework
+ Due every Sunday at Midnight
